@@ -1,0 +1,8 @@
+Hello Mr Kamel , this a nodeJS api to run it you should this steps:
+1) Download nodejs from this site (https://nodejs.org/en)
+2) install nodeJs on your computer
+// these two steps will be skipped if you already have nodejs on your computer
+3) Open cmd in this directory
+4) run this command (npm install) // to install dependencies
+5) after this run (nodemon) in the same cmd window
+=> and the api will run on port 3000
